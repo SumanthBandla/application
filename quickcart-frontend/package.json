@@ -1,5 +1,14 @@
 {
   "name": "quickcart-frontend",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "react-script": "^2.0.5"
+  }
 }
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test"
+}
+
